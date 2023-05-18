@@ -1,3 +1,4 @@
+#Original Credit Goes to https://spiderip.com/blog/2018/07/syslog
 $day = Get-Date -Format "dd"
 $month = Get-Date -Format "MM"
 $year = Get-Date -Format "yyyy"
